@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi ,I'm Kiran M
 <br>⚡ Engineer | Developer | Problem Solver  <br>🎓 Electronics & Communication Graduate | NCC Cadet  <br>🧰 Skilled in: Python 🐍, MySQL 🗃️, Advanced Excel 📈, Power BI 📊  <br>💡 Quick learner | Team player | Curious about data  <br>📍 Bangalore | 🌐 Open to collaboration  <br>🎯 Actively seeking opportunities in data science, data analysis, or backend development  <br>📫 Reach me at: kiranmeda78@gmail.com  <br>🔗 [LinkedIn](https://www.linkedin.com/in/kiran-m-b1941b280)<br>
 
 
